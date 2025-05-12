@@ -1,6 +1,6 @@
 *
 !tmux.conf
-!.config/
+!.config/*
 !.zshrc
 !.gitignore
 !.gitconfig
